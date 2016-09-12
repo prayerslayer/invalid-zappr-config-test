@@ -2,5 +2,4 @@ pull-request:
   labels:
     required:
       - approved
-    verboten:
-      - wip
+    additional: false
