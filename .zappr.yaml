@@ -1,7 +1,7 @@
 # this is how you configure zappr
 # a more exhaustive description is at
 # https://zappr.readthedocs.io/en/latest/setup
-
+# unrelated change
 # uncomment this if you want to change anything
 # approvals:
 #   by default, an approval is the thumbs up emoji only: ^:\\+1:$
@@ -22,3 +22,8 @@
 #   (you can also specify `orgs` and `users` and define `groups`)
 #   from:
 #     collaborators: true
+
+# <- wow
+# -> thanks
+# <- welcome
+# -> you so kind
